@@ -54,8 +54,9 @@ The **DṛṣṭiGyan** project is built using a combination of modern technolog
 To run **DṛṣṭiGyan** locally, follow these steps:
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/drishtigyan.git
-cd drishtigyan
+• git clone https://github.com/yourusername/drishtigyan.git
+
+• cd drishtigyan
 
 ### 2. Create a Virtual Environment
 python -m venv venv
@@ -68,16 +69,17 @@ python -m venv venv
 source venv/bin/activate
 
 ### 4. Install dependencies
-pip install -r requirements.txt
-            OR
-Simply run the requirements.py file
+• pip install -r requirements.txt
+ 
+• OR Simply run the requirements.py file
 
 ---
 
 ## 🖥️ Usage
 
-Run the Streamlit App:
-streamlit run app.py
+• Run the Streamlit App:
+
+• streamlit run app.py
 
 ---
 
