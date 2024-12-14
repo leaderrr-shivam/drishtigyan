@@ -54,7 +54,7 @@ The **DṛṣṭiGyan** project is built using a combination of modern technolog
 To run **DṛṣṭiGyan** locally, follow these steps:
 
 ### 1. Clone the Repository
-• git clone https://github.com/yourusername/drishtigyan.git
+• git clone https://github.com/leaderrr-shivam/drishtigyan.git
 
 • cd drishtigyan
 
